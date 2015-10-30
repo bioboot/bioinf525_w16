@@ -77,12 +77,6 @@ The Galaxy web-based platform for genomic data analysis. Manipulation and analys
 
 ### Reference material
 [Class Handout](../class-material/handout_day2-2_python.pdf)
-
-[Python Referene Commands and Glossary](../class-material/python-reference.html)  
-[Python Referene from Software Carpentry](http://software-carpentry.org/v5/novice/ref/03-python.html)  
-[Matplotlib Gallery](http://matplotlib.org/gallery.html)
-[iPython Notebooks](http://ipython.org/notebook.html)
-
 <!--- files dont exist yet...
 [Slides-2.1]()
 [Slides-2.2]()

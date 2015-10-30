@@ -74,6 +74,6 @@ The broader goal is to point towards perspectives that bioinformatics can expose
 
 <br>
 <br>
-<img src="class-material/Bioinf525_image_text.png" alt="hi" class="inline" style="width: 100%;"/>
+<img src="class-material/Bioinf525_image_text.png" alt="Bioinf525_Image" class="inline" style="width: 100%; border-style: solid;"/>
 
 
