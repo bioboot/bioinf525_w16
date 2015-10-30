@@ -11,6 +11,23 @@ Bioinformatics is driving the collection, analysis and interpretation of big dat
 
 <br>
 
+### Schedule:
+
+| Session | Date      | Topics                   | 
+| :-----: |:---------:| :----------------------- | 
+| 1.1     | 1/12/2016  | **Introduction to bioinformatics** | 
+|      |  | Bioinformatics databases and major online resources | 
+| 1.2     | 1/19/2016 | **Sequence alignment and database searching**  | 
+|      |  | Sequence alignment algorithms and applications  | 
+| 1.3     | 1/26/2016 | **Structural bioinformatics**       | 
+|      |  | Structure visualization, analysis and small molecule docking       | 
+| 1.4     | 2/2/2016 | **Genome informatics**                    | 
+|      |  | Web resources for analyzing genomic data  | 
+
+<br>
+
+### Lecture and Lab Material:
+
 #### Lecture (1-1):	**Introduction to bioinformatics**  
 - **Instructor**: 	Dr. Barry Grant  
 - **Time**: 		Jan 12 (Tuesday), 2:30 - 4:00 PM  
@@ -19,7 +36,9 @@ What are bioinformatics and computational biology?  Major NCBI and EBI bioinform
 - **Material**: [Pre class screen cast], [Lecture Slides], [Major Bioinformatics Databases]
 - **Homework**: [Readings], [Questions]  
 
-#### Lab (1-1): 	Bioinformatics databases and major online resources  
+<br>
+
+#### Lab (1-1): 	**Bioinformatics databases and major online resources**  
 - **Instructor**: 	Dr. Barry Grant  
 - **Time**: 		2:30 – 4:00 PM, Jan 14 (Thursday) or Jan 15, 10:30 - 12:00 PM, (Friday)  
 - **Topics**:  
@@ -34,7 +53,9 @@ The purpose of this lab session is to introduce a range of core bioinformatics d
 - **Topics**:  
 Homology and sequence alignments, Dynamic programming, Sequence similarity and database searching, Interpreting search results – E value, Needleman and Wunsch, Smith and Waterman, The BLAST algorithm.
 
-#### Lab (1-2): 	Sequence alignment algorithms and applications  
+<br>
+
+#### Lab (1-2): 	**Sequence alignment algorithms and applications**  
 - **Instructor**: 	Dr. Barry Grant  
 - **Time**: 		2:30 – 4:00 PM, Jan 21 (Thursday) or Jan 22, 10:30 - 12:00 PM, (Friday)  
 - **Topics**:  
@@ -49,7 +70,9 @@ Aligning novel sequences with previously characterized genes or proteins provide
 - **Topics**:  
 Major goals, current research challenges, and application areas of structural bioinformatics. Key concepts covered include: Sequence-structure-function relationships; Energy landscapes; Physics and knowledge based modeling approaches for describing the structure, energetics and dynamics of biomolecules computationally. 
 
-#### Lab (1-3): 	Structure visualization, analysis and small molecule docking  
+<br>
+
+#### Lab (1-3): 	**Structure visualization, analysis and small molecule docking**  
 - **Instructor**: 	Dr. Barry Grant  
 - **Time**: 2:30 – 4:00 PM, Jan 28 (Thursday) or Jan 29, 10:30 - 12:00 PM, (Friday)  
 - **Topics**:  
@@ -64,8 +87,9 @@ The RCSB PDB resource.  Interactive biomolecular structure visualization with VM
 - **Topics**:  
 High throughput sequencing technologies, biological applications and bioinformatics analysis methods.  Web interfaces to genome databases at Ensembl and UCSC.  
 
+<br>
 
-#### Lab (1-4): 	Web resources for analyzing genomic data 
+#### Lab (1-4): 	**Web resources for analyzing genomic data** 
 - **Instructor**: 	Drs. Ryan Mills and Barry Grant
 - **Time**: 		2:30 – 4:00 PM, Feb 4 (Thursday) or Feb 5, 10:30 - 12:00 PM, (Friday)
 - **Topics**:
