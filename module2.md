@@ -13,15 +13,18 @@ Basic statistics as used in bioinformatics, especially standard statistical test
 
 ### Schedule:
 
-| Session | Time           | Topics                   | 
-| :-----: |:--------------:| :----------------------- | 
-| I       | 9:00-10:15 AM  | **Intro to Python and Programming Concepts** | 
-|         | 10:15-10:30AM  | Coffee Break             | 
-| II      | 10:30-12:00 AM | **Programming Concepts, Variables, and Data Structures**       | 
-|         | 12:00-1:00PM   | Lunch                    | 
-| III     | 1:00-2:15 PM   | **Control Structures and Functions**    | 
-|         | 2:15-2:30 PM   | Coffee Break             | 
-| IV      | 2:30-4:00 PM   | **System Calls, Plotting, and iPython Notebooks**   | 
+|| Session | Date      | Topics                   | 
+| :-----: |:---------:| :----------------------- | 
+| 2.1     | 2/9/2016  | **Framework for statistical analysis of biomedical data** | 
+|      |  | Bioinformatics databases and major online resources | 
+| 2.2     | 2/16/2016 | **Approaches to statistical estimation and testing**  | 
+|      |  | Sequence alignment algorithms and applications  | 
+| 2.3     | 2/23/2016 | **Analyses involving associations**       | 
+|      |  | Structure visualization, analysis and small molecule docking       | 
+| 2.4     | 3/8/2016 | **Linear regression**                    | 
+|      |  | Web resources for analyzing genomic data  | 
+| 2.5     | 3/15/2016 | **Graphical methods for multivariate data analysis**                    | 
+|      |  | Web resources for analyzing genomic data  | 
 
 
 <br>
