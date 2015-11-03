@@ -9,24 +9,26 @@ permalink: /module3/
 
 Computational analysis of OMICs data (genomics, transcriptomics, proteomics).  Analysis of protein-protein interactions and gene expression data. Pathways and networks, machine learning. Example applications from translational medicine and cell biology.
 
+  
+**N.B.** Please complete this pre-course [**questionnaire**](http://tinyurl.com/bioboot-questions) if you have not already done so. 
+
+
+|         |         |                    | 
+| :-----: |:------:| :----------------------- | 
+| **3.1** | Lecture | [**Introduction to systems biology**](#3.1) | 
+|         | Lab     | [Network analysis for systems biology](#3.1) | 
+| **3.2** | Lecture | [**Computational clinical decision support systems**](#3.2)  | 
+|         | Lab     | [WEKA for machine learning and feature analysis](#3.2)  | 
+| **3.3** | Lecture | [**Systems biology approaches in pharmacogenomics**](#3.3) | 
+|         | Lab     | [Introduction to pharmacogenomics](#3.3)       | 
+| **3.4** | Lecture | [**Application of systems biology to translational medicine**](#3.4) | 
+|         | Lab     | [Systems biology resources for translational medicine](#3.4)  | 
+
 <br>
 
-### Schedule:
-
-| Session | Date      | Topics                   | 
-| :-----: |:---------:| :----------------------- | 
-| 3.1     | 1/12/2016  | **Introduction to systems biology** | 
-|      |  | Network analysis for systems biology | 
-| 3.2     | 1/19/2016 | **Computational clinical decision support systems**  | 
-|      |  | WEKA for machine learning and feature analysis  | 
-| 3.3     | 1/26/2016 | **Systems biology approaches in pharmacogenomics**       | 
-|      |  | Introduction to pharmacogenomics       | 
-| 3.4     | 2/2/2016 | **Application of systems biology to translational medicine**                    | 
-|      |  | Systems biology resources for translational medicine  | 
-
+---
+<a name="3.1"></a>
 <br>
-
-### Lecture and Lab Material:
 
 #### Lecture (3-1):	**Introduction to systems biology**  
 - **Instructor**: 	Dr. Brian Athe  
@@ -38,13 +40,17 @@ What are bioinformatics and computational biology?  Major NCBI and EBI bioinform
 
 <br>
 
-#### Lab (1-1): 	**Network analysis for systems biology**  
+#### Lab (3-1): 	**Network analysis for systems biology**  
 - **Instructor**: 	Marci Brandenburg and Dr. Viji Nair  
 - **Time**: 		2:30 – 4:00 PM, Mar 24 (Thursday) or Mar 25, 10:30 - 12:00 PM, (Friday)  
 - **Topics**:  
 Representation of data as graphs.  Pathway and network exploration and visualization with Cytoscape, including the MetScape app, in addition to ConceptGen.  
 - **Material**: [Lab worksheet]
 
+<br>
+
+---
+<a name="3.2"></a>
 <br>
 
 #### Lecture (3-2): **Computational clinical decision support systems** 
@@ -55,13 +61,17 @@ Introduction to computational clinical decision support systems. Machine learnin
 
 <br>
 
-#### Lab (1-2): 	**WEKA for machine learning and feature analysis**  
+#### Lab (3-2): 	**WEKA for machine learning and feature analysis**  
 - **Instructor**: 	Dr. Kayvan Najarian  
 - **Time**: 		2:30 – 4:00 PM, Mar 31 (Thursday) or Apr 1, 10:30 - 12:00 PM, (Friday)  
 - **Topics**:  
 Introduction to WEKA, using machine learning methods such as SVM, Random Forest, Neural Networks for simple examples in systems biology, using WEKA for feature extraction and analysis.  
 - **Material**: [Lab worksheet]
 
+<br>
+
+---
+<a name="3.3"></a>
 <br>
 
 #### Lecture (3-3): **Introduction to pharmacogenomics**  
@@ -79,6 +89,10 @@ Studying variations of human genome characteristics as related to drug responses
 Introduction to drug databases used in pharmacogenomic decision support.  DrugBank, PharmGKB.
 - **Material**: [Lab worksheet]
 
+<br>
+
+---
+<a name="3.4"></a>
 <br>
 
 #### Lecture (3-4): **Application of systems biology to translational medicine**  

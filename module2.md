@@ -9,27 +9,32 @@ permalink: /module2/
 
 Basic statistics as used in bioinformatics, especially standard statistical tests of significance and when they apply. Applications to genetics, experimental and observational medical data, as well as exploration of multiple testing issues that arise in bioinformatics and other experimental settings. NOTE: Dr. Kaciroti is the instructor for all Module 2 lectures and labs.
 
-<br>
 
-### Schedule:
+  
+**N.B.**  Please complete this pre-course [**questionnaire**](http://tinyurl.com/bioboot-questions) if you have not already done so. 
 
-|| Session | Date      | Topics                   | 
+
+
+
+|         |           |                          | 
 | :-----: |:---------:| :----------------------- | 
-| 2.1     | 2/9/2016  | **Framework for statistical analysis of biomedical data** | 
-|      |  | Bioinformatics databases and major online resources | 
-| 2.2     | 2/16/2016 | **Approaches to statistical estimation and testing**  | 
-|      |  | Sequence alignment algorithms and applications  | 
-| 2.3     | 2/23/2016 | **Analyses involving associations**       | 
-|      |  | Structure visualization, analysis and small molecule docking       | 
-| 2.4     | 3/8/2016 | **Linear regression**                    | 
-|      |  | Web resources for analyzing genomic data  | 
-| 2.5     | 3/15/2016 | **Graphical methods for multivariate data analysis**                    | 
-|      |  | Web resources for analyzing genomic data  | 
+| **2.1** | Lecture  | [**Framework for statistical analysis of biomedical data**](#2.1) | 
+|         | Lab | [Bioinformatics databases and major online resources](#2.1) | 
+| **2.2** | Lecture | [**Approaches to statistical estimation and testing**](#2.2)  | 
+|         | Lab | [Sequence alignment algorithms and applications](#2.2)  | 
+| **2.3** | Lecture | [**Analyses involving associations**](#2.3)   | 
+|         | Lab | [Structure visualization, analysis and small molecule docking](#2.3) | 
+| **2.4** | Lecture | [**Linear regression**](#2.4)                 | 
+|         | Lab | [Web resources for analyzing genomic data](#2.4)  | 
+| **2.5** | Lecture | [**Graphical methods for multivariate data analysis**](#2.5) | 
+|         | Lab | [Web resources for analyzing genomic data](#2.5)  | 
 
 
 <br>
 
-### Lecture and Lab Material:
+---
+<a name="2.1"></a>
+<br>
 
 #### Lecture (2-1): **Framework for statistical analysis of biomedical data**
 - **Time**: 		Feb 9 (Tuesday), 2:30 - 4:00 PM
@@ -43,6 +48,10 @@ Probability distributions, quantifying central values and variability, quantifyi
 - **Topics**:
 Probability distributions, quantifying central values and variability, quantifying association, graphical displays of data
 
+<br>
+
+---
+<a name="2.2"></a>
 <br>
 
 
@@ -60,6 +69,10 @@ Estimation and standard errors, standard errors for means, correlations, and log
 
 <br>
 
+---
+<a name="2.3"></a>
+<br>
+
 #### Lecture (2-3): **Analyses involving associations**
 - **Time**: 		Feb 23 (Tuesday), 2:30 - 4:00 PM
 - **Topics**:
@@ -74,6 +87,10 @@ Tests based on Pearson correlation t-test, and log odds ratios
 
 <br>
 
+---
+<a name="2.4"></a>
+<br>
+
 #### Lecture (2-4): **Linear regression**
 - **Time**: 		Mar 8 (Tuesday), 2:30 - 4:00 PM
 - **Topics**:
@@ -86,6 +103,10 @@ Single and multiple variable linear regression, Bonferroni correction, power for
 - **Topics**:
 Fitting regression models for prediction and effect estimation, inference for regression effects, R^2, diagnostics, comparing models
 
+<br>
+
+---
+<a name="2.5"></a>
 <br>
 
 #### Lecture (2-5): **Introduction to graphical methods for multivariate data analysis** 

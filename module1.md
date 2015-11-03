@@ -9,24 +9,27 @@ permalink: /module1/
 
 Bioinformatics is driving the collection, analysis and interpretation of big data for biomedicine and the biosciences.  This module provides an introduction to practical issues of computer-based handling and interpretation of biomolecular and genomic datasets.  We specifically target bioinformatics software and data resources freely available on the Internet.
 
+
+  
+**N.B.**  Please help us improve this course by completing this pre-course [**questionnaire**](http://tinyurl.com/bioboot-questions). 
+
+
+|         |         |                          | 
+| :-----: |:-------:| :----------------------- | 
+| **1.1** | Lecture | [**Introduction to bioinformatics**](#1.1) | 
+|         | Lab     | [Bioinformatics databases and major online resources](#1.1) | 
+| **1.2** | Lecture | [**Sequence alignment and database searching**](#1.2)  | 
+|         | Lab     | [Sequence alignment algorithms and applications](#1.2) | 
+| **1.3** | Lecture | [**Structural bioinformatics**](#1.3)      | 
+|         | Lab     | [Structure visualization, analysis and small molecule docking](#1.3) | 
+| **1.4** | Lecture | [**Genome informatics**](#1.4)             | 
+|         | Lab     | [Web resources for analyzing genomic data](#1.4)  | 
+
 <br>
 
-### Schedule:
-
-| Session | Date      | Topics                   | 
-| :-----: |:---------:| :----------------------- | 
-| 1.1     | 1/12/2016  | **Introduction to bioinformatics** | 
-|      |  | Bioinformatics databases and major online resources | 
-| 1.2     | 1/19/2016 | **Sequence alignment and database searching**  | 
-|      |  | Sequence alignment algorithms and applications  | 
-| 1.3     | 1/26/2016 | **Structural bioinformatics**       | 
-|      |  | Structure visualization, analysis and small molecule docking       | 
-| 1.4     | 2/2/2016 | **Genome informatics**                    | 
-|      |  | Web resources for analyzing genomic data  | 
-
+---
+<a name="1.1"></a>
 <br>
-
-### Lecture and Lab Material:
 
 #### Lecture (1-1):	**Introduction to bioinformatics**  
 - **Instructor**: 	Dr. Barry Grant  
@@ -47,6 +50,10 @@ The purpose of this lab session is to introduce a range of core bioinformatics d
 
 <br>
 
+---
+<a name="1.2"></a>
+<br>
+
 #### Lecture (1-2): **Sequence alignment and database searching** 
 - **Instructor**: 	Dr. Barry Grant  
 - **Time**: 		Jan 19 (Tuesday), 2:30 - 4:00 PM  
@@ -64,6 +71,11 @@ Aligning novel sequences with previously characterized genes or proteins provide
 
 <br>
 
+---
+<a name="1.3"></a>
+<br>
+
+
 #### Lecture (1-3): **Structural bioinformatics**  
 - **Instructor**: 	Dr. Barry Grant  
 - **Time**: 		Jan 26 (Tuesday), 2:30 - 4:00 PM  
@@ -79,6 +91,10 @@ Major goals, current research challenges, and application areas of structural bi
 The RCSB PDB resource.  Interactive biomolecular structure visualization with VMD.  Structural analysis of protein families and prediction of protein flexibility with Bio3D.  In silico docking and virtual screening strategies for drug design.
 - **Material**: [Lab worksheet]
 
+<br>
+
+---
+<a name="1.4"></a>
 <br>
 
 #### Lecture (1-4): **Genome informatics**  
