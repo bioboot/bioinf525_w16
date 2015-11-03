@@ -36,7 +36,7 @@ Bioinformatics is driving the collection, analysis and interpretation of big dat
 - **Time**: 		Jan 12 (Tuesday), 2:30 - 4:00 PM  
 - **Topics**:  
 What are bioinformatics and computational biology?  Major NCBI and EBI bioinformatics resources.  How do we actually do bioinformatics?  Major areas of research and application.  
-- **Material**: [Pre class screen cast], [Lecture Slides], [Major Bioinformatics Databases](../class-material/Major_Databases_W16.pdf)
+- **Material**: [Pre class screen cast], [Lecture Slides], [Major Bioinformatics Databases]({{ site.baseurl }}/class-material/Major_Databases_W16.pdf)
 - **Homework**: [Readings], [Questions]  
 
 <br>
@@ -116,7 +116,7 @@ The Galaxy web-based platform for genomic data analysis. Manipulation and analys
 <br>
 
 ### Reference material
-[Class Handout on Major Databases](../class-material/Major_Databases_W16.pdf)
+[Class Handout on Major Databases]({{ site.baseurl }}/class-material/Major_Databases_W16.pdf)
 <!--- files dont exist yet...
 [Slides-2.1]()
 [Slides-2.2]()
