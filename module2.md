@@ -19,15 +19,15 @@ Basic statistics as used in bioinformatics, especially standard statistical test
 |         |           |                          | 
 | :-----: |:---------:| :----------------------- | 
 | **2.1** | Lecture  | [**Framework for statistical analysis of biomedical data**](#2.1) | 
-|         | Lab | [Bioinformatics databases and major online resources](#2.1) | 
+|         | Lab | [Descriptive statistics and summarizing data](#2.1) | 
 | **2.2** | Lecture | [**Approaches to statistical estimation and testing**](#2.2)  | 
-|         | Lab | [Sequence alignment algorithms and applications](#2.2)  | 
+|         | Lab | [Hypothesis testing](#2.2)  | 
 | **2.3** | Lecture | [**Analyses involving associations**](#2.3)   | 
-|         | Lab | [Structure visualization, analysis and small molecule docking](#2.3) | 
+|         | Lab | [Pearson correlation, t-test, and log odds ratios](#2.3) | 
 | **2.4** | Lecture | [**Linear regression**](#2.4)                 | 
-|         | Lab | [Web resources for analyzing genomic data](#2.4)  | 
+|         | Lab | [Regression models](#2.4)  | 
 | **2.5** | Lecture | [**Graphical methods for multivariate data analysis**](#2.5) | 
-|         | Lab | [Web resources for analyzing genomic data](#2.5)  | 
+|         | Lab | [Clustering and principal component analysis](#2.5)  | 
 
 
 <br>
@@ -43,7 +43,7 @@ Probability distributions, quantifying central values and variability, quantifyi
 
 <br>
 
-#### Lab (2-1): 	**Framework for statistical analysis of biomedical data**
+#### Lab (2-1): 	**Descriptive statistics and summarizing data**
 - **Time**: 		2:30 – 4:00 PM, Feb 11 (Thursday) or Feb 12, 10:30 - 12:00 PM, (Friday)
 - **Topics**:
 Probability distributions, quantifying central values and variability, quantifying association, graphical displays of data
@@ -62,7 +62,7 @@ Estimation and standard errors, standard errors for means, correlations, and log
 
 <br>
 
-#### Lab (2-2): 	**Approaches to statistical estimation and testing**
+#### Lab (2-2): 	**Hypothesis testing**
 - **Time**: 		2:30 – 4:00 PM, Feb 18 (Thursday) or Feb 19, 10:30 - 12:00 PM, (Friday)
 - **Topics**: 
 Estimation and standard errors, standard errors for means, correlations, and log odds ratios, formal hypothesis testing, one and two sample tests involving means, power.
@@ -98,7 +98,7 @@ Single and multiple variable linear regression, Bonferroni correction, power for
 
 <br>
 
-#### Lab (2-4): 	**Linear regression**
+#### Lab (2-4): 	**Regression models**
 - **Time**: 		2:30 – 4:00 PM, Mar 10 (Thursday) or Mar 11, 10:30 - 12:00 PM, (Friday)
 - **Topics**:
 Fitting regression models for prediction and effect estimation, inference for regression effects, R^2, diagnostics, comparing models
