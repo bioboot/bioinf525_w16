@@ -104,7 +104,7 @@ Integrating genome wide data sets with high-resolution clinical phenotypes, mole
 <br>
 
 #### Lab (1-4): 	**Systems biology resources for translational medicine** 
-- **Instructor**: 	Dr. Viji Nai
+- **Instructor**: 	Dr. Felix Eichinger
 - **Time**: 		2:30 – 4:00 PM, Apr 14 (Thursday) or  Apr 15, 10:30 - 12:00 PM, (Friday)
 - **Topics**:
 Introduction to web based systems biology resources including Oncomine and Nephromine.
