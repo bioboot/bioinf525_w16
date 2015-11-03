@@ -31,7 +31,7 @@ Computational analysis of OMICs data (genomics, transcriptomics, proteomics).  A
 <br>
 
 #### Lecture (3-1):	**Introduction to systems biology**  
-- **Instructor**: 	Dr. Brian Athe  
+- **Instructor**: 	Dr. Brian Athey  
 - **Time**: 		Mar 22 (Tuesday), 2:30 - 4:00 PM  
 - **Topics**:  
 What are bioinformatics and computational biology?  Major NCBI and EBI bioinformatics resources.  How do we actually do bioinformatics?  Major areas of research and application.  
