@@ -1,142 +1,30 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>  | BIOINF 525 </title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta charset="utf-8">
-
-  <!--  Load bootswatch-based Morea theme file. -->
-  <link rel="stylesheet" href="/bioinf525_w16/css/themes/spacelab/bootstrap.min.css">
-  <link rel="stylesheet" href="/bioinf525_w16/css/style.css">
-  <link rel="stylesheet" href="/bioinf525_w16/css/syntax.css">
-  <link rel="shortcut icon" href="/bioinf525_w16/favicon.ico" type="image/x-icon"/>
-
-  <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
-  <!--[if lt IE 9]>
-  <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.6.2/html5shiv.js"></script>
-  <script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.2.0/respond.js"></script>
-  <![endif]-->
-
-  <!-- Load Bootstrap JavaScript components -->
-  <script src="//code.jquery.com/jquery.min.js"></script>
-  <script src="//netdna.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
-
-  
-  <script type="text/javascript"
-          src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
-  
-
-  
-
-  <script>
-    $(window).load(function () {
-      // If on a page associated with a navbar item, make its navbar item 'active'.
-      $('.navbar-nav').find('a[href="' + location.pathname + '"]').parents('li').addClass('active');
-    });
-  </script>
-
-</head>
-<body>
-<!-- Responsive navbar -->
-<div class="navbar navbar-default navbar-fixed-top" role="navigation">
-  <div class="container">
-    <div class="navbar-header">
-      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-        <!--  Display three horizontal lines when navbar collapsed. -->
-        <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span>
-      </button>
-      <a class="navbar-brand" href="/bioinf525_w16/index.html"> BIOINF 525 </a>
-    </div>
-    <div class="collapse navbar-collapse">
-      <ul class="nav navbar-nav">
-        
-        <li><a href="/bioinf525_w16/modules/">Modules</a></li>
-        
-        <li><a href="/bioinf525_w16/outcomes/">Outcomes</a></li>
-        
-        
-        <li><a href="/bioinf525_w16/readings/">Readings</a></li>
-        
-        
-        <li><a href="/bioinf525_w16/experiences/">Experiences</a></li>
-        
-        
-        <li><a href="/bioinf525_w16/assessments/">Assessments</a></li>
-        
-        
-      </ul>
-    </div>
-  </div>
-</div>
-
-
-
+---
+layout: null
+---
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-	<channel>
-		<title>BIOINF 525</title>
-		<description></description>		
-		<link></link>
-		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-		
-			<item>
-				<title>Welcome to Jekyll!</title>
-				<description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory - edit this post and re-build (or run with the &lt;code class=&quot;highlighter-rouge&quot;&gt;-w&lt;/code&gt; switch) to see your changes!
-To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention: YYYY-MM-DD-name-of-post.ext.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/mojombo/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;.&lt;/p&gt;
-
-</description>
-				<pubDate>Tue, 14 Jan 2014 09:29:39 -0500</pubDate>
-				<link>/jekyll/update/2014/01/14/welcome-to-jekyll.html</link>
-				<guid isPermaLink="true">/jekyll/update/2014/01/14/welcome-to-jekyll.html</guid>
-			</item>
-		
-	</channel>
+  <channel>
+    <title>{{ site.title | xml_escape }}</title>
+    <description>{{ site.description | xml_escape }}</description>
+    <link>{{ site.url }}{{ site.baseurl }}/</link>
+    <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
+    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
+    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+    <generator>Jekyll v{{ jekyll.version }}</generator>
+    {% for post in site.posts limit:10 %}
+      <item>
+        <title>{{ post.title | xml_escape }}</title>
+        <description>{{ post.content | xml_escape }}</description>
+        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+        <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
+        <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
+        {% for tag in post.tags %}
+        <category>{{ tag | xml_escape }}</category>
+        {% endfor %}
+        {% for cat in post.categories %}
+        <category>{{ cat | xml_escape }}</category>
+        {% endfor %}
+      </item>
+    {% endfor %}
+  </channel>
 </rss>
-
-
-
-
-<script src="/bioinf525_w16/js/scrollIfAnchor.js"></script>
-
-<div class="footer-background hidden-print">
-  <footer>
-    <div class="container page-footer">
-      
-      <p>Example Name | Example Department | Example University
-email@example.com</p>
-
-      
-      <p style="margin: 0">Powered by the <a href="http://morea-framework.github.io/">Morea Framework</a> (Theme: spacelab)<br>
-        Last update on: <span>2015-10-23 22:50:44 -0400</span></p>
-
-      <p style="margin: 0">
-        
-        4 modules
-        
-        | 3 outcomes
-        
-        
-        | 4 readings
-        
-        
-        | 3 experiences
-        
-        
-        | 3 assessments
-        
-      </p>
-    </div>
-  </footer>
-</div>
-</body>
-</html>

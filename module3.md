@@ -114,7 +114,6 @@ Introduction to web based systems biology resources including Oncomine and Nephr
 <br>
 
 ### Reference material
-[Class Handout](../class-material/handout_day2-2_python.pdf)
 <!--- files dont exist yet...
 [Slides-2.1]()
 [Slides-2.2]()

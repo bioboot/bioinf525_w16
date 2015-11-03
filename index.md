@@ -17,7 +17,7 @@ This course is comprised of three modules covering (1) [Foundations of Bioinform
 	Module 3: 	 March 22 – April 15 		(four lectures and four labs).
 
 <br>
-**Schedule**:  In addition to Tuesday lectures students should attend one lab session per week.  Please note that students must register under either the Session I (Thursdays) or Session II (Friday) lab times that they wish to attend throughout each module.  A detailed schedule with topic outlines is available for [download].
+**Schedule**:  In addition to Tuesday lectures students should attend one lab session per week.  Please note that students must register under either the Session I (Thursdays) or Session II (Friday) lab times that they wish to attend throughout each module.  A detailed **syllabus** with topic outlines is available for [download](../class-material/BIOINF525W16-syllabus.pdf).
 
 	Lectures:	 Tuesdays 2:30 - 4:00 PM, Rm. 2062 Palmer Commons Bldg. 
 
