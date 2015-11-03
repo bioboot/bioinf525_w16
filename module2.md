@@ -21,7 +21,7 @@ Basic statistics as used in bioinformatics, especially standard statistical test
 | **2.1** | Lecture  | [**Framework for statistical analysis of biomedical data**](#2.1) | 
 |         | Lab | [Descriptive statistics and summarizing data](#2.1) | 
 | **2.2** | Lecture | [**Approaches to statistical estimation and testing**](#2.2)  | 
-|         | Lab | [Hypothesis testing](#2.2)  | 
+|         | Lab | [Statistical estimation and hypothesis testing](#2.2)  | 
 | **2.3** | Lecture | [**Analyses involving associations**](#2.3)   | 
 |         | Lab | [Pearson correlation, t-test, and log odds ratios](#2.3) | 
 | **2.4** | Lecture | [**Linear regression**](#2.4)                 | 
@@ -62,7 +62,7 @@ Estimation and standard errors, standard errors for means, correlations, and log
 
 <br>
 
-#### Lab (2-2): 	**Hypothesis testing**
+#### Lab (2-2): 	**Statistical estimation and hypothesis testing**
 - **Time**: 		2:30 – 4:00 PM, Feb 18 (Thursday) or Feb 19, 10:30 - 12:00 PM, (Friday)
 - **Topics**: 
 Estimation and standard errors, standard errors for means, correlations, and log odds ratios, formal hypothesis testing, one and two sample tests involving means, power.
@@ -80,7 +80,7 @@ Pearson correlation, t-test, odds ratios, discussion of a research article
 
 <br>
 
-#### Lab (2-3): 	**Analyses involving associations**
+#### Lab (2-3): 	**Pearson correlation, t-test, and log odds ratios**
 - **Time**: 		2:30 – 4:00 PM, Feb 25 (Thursday) or Mar 26, 10:30 - 12:00 PM, (Friday)
 - **Topics**:
 Tests based on Pearson correlation t-test, and log odds ratios
