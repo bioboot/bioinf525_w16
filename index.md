@@ -40,6 +40,9 @@ Students completing this course will be able to apply leading bioinformatics too
 Satisfactory/unsatisfactory grading will be based on a combination of lecture and lab involvement together with weekly homework and quiz assignment performance.
 
 <br>
+**Why take this course**: Praise for the 2015 class from [**official student evaluations**]({{ site.baseurl }}/praise/).
+
+<br>
 **Professor**:  
 Dr. Barry Grant  
 Department of Computational Medicine and Bioinformatics  
