@@ -7,11 +7,11 @@ permalink: /module1/
 
 # Module 1. Foundations of Bioinformatics
 
-Bioinformatics is driving the collection, analysis and interpretation of big data for biomedicine and the biosciences.  This module provides an introduction to practical issues of computer-based handling and interpretation of biomolecular and genomic datasets.  We specifically target bioinformatics software and data resources freely available on the Internet.
+Bioinformatics is driving the collection, analysis and interpretation of big data in the biosciences.  This module provides an introduction to practical issues of computer-based handling and interpretation of biomolecular and genomic datasets.  We specifically target bioinformatics software and data resources freely available on the Internet.
 
 
   
-**N.B.**  Please help us improve this course by completing this pre-course [**questionnaire**](http://tinyurl.com/bioboot-questions). 
+**N.B.**  Please help us improve this course by completing this pre-course [**questionnaire**](http://tinyurl.com/bioinf525-questions). 
 
 
 |         |         |                          | 

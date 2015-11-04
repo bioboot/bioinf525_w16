@@ -10,7 +10,7 @@ permalink: /module3/
 Computational analysis of OMICs data (genomics, transcriptomics, proteomics).  Analysis of protein-protein interactions and gene expression data. Pathways and networks, machine learning. Example applications from translational medicine and cell biology.
 
   
-**N.B.** Please complete this pre-course [**questionnaire**](http://tinyurl.com/bioboot-questions) if you have not already done so. 
+**N.B.** Please complete this pre-course [**questionnaire**](http://tinyurl.com/bioinf525-questions) if you have not already done so. 
 
 
 |         |         |                    | 
@@ -96,7 +96,7 @@ Introduction to drug databases used in pharmacogenomic decision support.  DrugBa
 <br>
 
 #### Lecture (3-4): **Application of systems biology to translational medicine**  
-- **Instructor**: 	Dr. Ryan Mills  
+- **Instructor**: 	Dr. Matthias Kretzler  
 - **Time**: 		Apr 12 (Tuesday), 2:30 - 4:00 PM  
 - **Topics**:  
 Integrating genome wide data sets with high-resolution clinical phenotypes, molecular marker definition, regulatory network generation in patient samples.  

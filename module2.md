@@ -11,7 +11,7 @@ Basic statistics as used in bioinformatics, especially standard statistical test
 
 
   
-**N.B.**  Please complete this pre-course [**questionnaire**](http://tinyurl.com/bioboot-questions) if you have not already done so. 
+**N.B.**  Please complete this pre-course [**questionnaire**](http://tinyurl.com/bioinf525-questions) if you have not already done so. 
 
 
 
