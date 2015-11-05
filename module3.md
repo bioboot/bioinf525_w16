@@ -19,8 +19,8 @@ Computational analysis of OMICs data (genomics, transcriptomics, proteomics).  A
 |         | Lab     | [Network analysis for systems biology](#3.1) | 
 | **3.2** | Lecture | [**Computational clinical decision support systems**](#3.2)  | 
 |         | Lab     | [WEKA for machine learning and feature analysis](#3.2)  | 
-| **3.3** | Lecture | [**Systems biology approaches in pharmacogenomics**](#3.3) | 
-|         | Lab     | [Introduction to pharmacogenomics](#3.3)       | 
+| **3.3** | Lecture | [**Systems biology approaches in epigenomics**](#3.3) | 
+|         | Lab     | [Introduction to epigenomics](#3.3)       | 
 | **3.4** | Lecture | [**Application of systems biology to translational medicine**](#3.4) | 
 |         | Lab     | [Systems biology resources for translational medicine](#3.4)  | 
 
@@ -31,7 +31,7 @@ Computational analysis of OMICs data (genomics, transcriptomics, proteomics).  A
 <br>
 
 #### Lecture (3-1):	**Introduction to systems biology**  
-- **Instructor**: 	Dr. Brian Athey  
+- **Instructor**: 	Dr. Gerry Higgins  
 - **Time**: 		Mar 22 (Tuesday), 2:30 - 4:00 PM  
 - **Topics**:  
 What are bioinformatics and computational biology?  Major NCBI and EBI bioinformatics resources.  How do we actually do bioinformatics?  Major areas of research and application.  
@@ -74,19 +74,20 @@ Introduction to WEKA, using machine learning methods such as SVM, Random Forest,
 <a name="3.3"></a>
 <br>
 
-#### Lecture (3-3): **Introduction to pharmacogenomics**  
-- **Instructor**: 	Dr. Gerry Higgins  
+#### Lecture (3-3): **Introduction to epigenomics**  
+- **Instructor**: 	Dr. Steven Parker  
 - **Time**: 		Apr 5 (Tuesday), 2:30 - 4:00 PM  
 - **Topics**:  
-Studying variations of human genome characteristics as related to drug responses. System biology approaches integrating interacting networks of genes, proteins and biochemical reactions to inform drug treatment regimens.  Adverse drug reactions.  Towards personalized and systems medicine. 
+Computational approaches to study of how genome-wide chemical modifications to DNA and histones regulate gene activity and the role of these modifications in health and disease.
+ System biology approaches integrating interacting networks of genes, proteins and biochemical reactions to inform drug treatment regimens.  Adverse drug reactions.  Towards personalized and systems medicine. 
 
 <br>
 
-#### Lab (3-3): 	**Introduction to pharmacogenomics**  
-- **Instructor**: 	Dr. Gerry Higgins  
+#### Lab (3-3): 	**Introduction to epigenomics**  
+- **Instructor**: 	Dr. Steven Parker  
 - **Time**: 2:30 – 4:00 PM, Apr 7 (Thursday) or Apr 8, 10:30 - 12:00 PM, (Friday)  
 - **Topics**:  
-Introduction to drug databases used in pharmacogenomic decision support.  DrugBank, PharmGKB.
+Introduction system biology approaches integrating interacting networks of genes .
 - **Material**: [Lab worksheet]
 
 <br>
@@ -104,7 +105,7 @@ Integrating genome wide data sets with high-resolution clinical phenotypes, mole
 <br>
 
 #### Lab (1-4): 	**Systems biology resources for translational medicine** 
-- **Instructor**: 	Dr. Felix Eichinger
+- **Instructor**: 	Felix Eichinger
 - **Time**: 		2:30 – 4:00 PM, Apr 14 (Thursday) or  Apr 15, 10:30 - 12:00 PM, (Friday)
 - **Topics**:
 Introduction to web based systems biology resources including Oncomine and Nephromine.
