@@ -19,8 +19,8 @@ Computational analysis of OMICs data (genomics, transcriptomics, proteomics).  A
 |         | Lab     | [Network analysis for systems biology](#3.1) | 
 | **3.2** | Lecture | [**Computational clinical decision support systems**](#3.2)  | 
 |         | Lab     | [WEKA for machine learning and feature analysis](#3.2)  | 
-| **3.3** | Lecture | [**Systems biology approaches in epigenomics**](#3.3) | 
-|         | Lab     | [Introduction to epigenomics](#3.3)       | 
+| **3.3** | Lecture | [**Epigenome data mining to understand disease predisposition**](#3.3) | 
+|         | Lab     | [Epigenome profiling and disease links](#3.3)       | 
 | **3.4** | Lecture | [**Application of systems biology to translational medicine**](#3.4) | 
 |         | Lab     | [Systems biology resources for translational medicine](#3.4)  | 
 
@@ -74,20 +74,19 @@ Introduction to WEKA, using machine learning methods such as SVM, Random Forest,
 <a name="3.3"></a>
 <br>
 
-#### Lecture (3-3): **Introduction to epigenomics**  
+#### Lecture (3-3): **Epigenome data mining to understand disease predisposition**  
 - **Instructor**: 	Dr. Steven Parker  
 - **Time**: 		Apr 5 (Tuesday), 2:30 - 4:00 PM  
 - **Topics**:  
-Computational approaches to study of how genome-wide chemical modifications to DNA and histones regulate gene activity and the role of these modifications in health and disease.
- System biology approaches integrating interacting networks of genes, proteins and biochemical reactions to inform drug treatment regimens.  Adverse drug reactions.  Towards personalized and systems medicine. 
+For decades, substantial research efforts have focused on the <2% of the human genome that encodes proteins. Recent epigenome-based functional genomic analyses and genome-wide association studies (GWAS) together implicate non-coding DNA regulatory elements as critical regions influencing gene expression, risk for common diseases, variation in physiological traits, and evolution across species. Because they represent the convergent point of evolutionary, genetic, developmental, and environmental inputs, basal epigenomic signatures and their dynamic changes are central to understanding biological function. This lecture will explore epigenomic assays and bioinformatic analyses and how these approaches can help untangle disease mechanisms. 
 
 <br>
 
-#### Lab (3-3): 	**Introduction to epigenomics**  
+#### Lab (3-3): 	**Epigenome profiling and disease links**  
 - **Instructor**: 	Dr. Steven Parker  
 - **Time**: 2:30 – 4:00 PM, Apr 7 (Thursday) or Apr 8, 10:30 - 12:00 PM, (Friday)  
 - **Topics**:  
-Introduction system biology approaches integrating interacting networks of genes .
+Students will learn how to computationally process epigenomic data, create interactive displays of these profiles, and then use the profiles to interpret disease associated genetic variations.
 - **Material**: [Lab worksheet]
 
 <br>
