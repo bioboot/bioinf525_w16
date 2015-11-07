@@ -10,7 +10,7 @@ To fully participate in this course you will need access to the free open source
 <br>
 
 **Supported web browser**
-We require an up-to-date [supported web browser](https://help.github.com/articles/supported-browsers/) (current versions of Chrome, Firefox and Safari are preferred). 
+We require an up-to-date web browser (current versions of [Chrome](https://www.google.com/chrome/), [Firefox](http://www.mozilla.org/firefox/) and [Safari](Safari) are preferred). 
 
 <br>
 

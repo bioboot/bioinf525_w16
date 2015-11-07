@@ -29,7 +29,7 @@ The complete course is comprised of three modules covering (1) [**Foundations of
 **Prerequisites**: A familiarity with basic biomedical concepts and basic knowledge of computer usage.  No programing skills are needed. 
 
 <br>
-**Requirements**: Students should bring their own WiFi enabled laptop to lectures to fully benefit from the hands-on components of each lecture.  Computers will be provided for lab sessions.
+**Requirements**: Students should bring their own WiFi enabled laptop to lectures to fully benefit from the hands-on components of each lecture.  Please see our [**laptop setup instructions**]({ site.baseurl }}/setup/) for further details. Computers will be provided for lab sessions.
 
 <br>
 **Objectives**:
