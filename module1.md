@@ -39,6 +39,8 @@ What are bioinformatics and computational biology?  Major NCBI and EBI bioinform
 - **Material**: [Pre class screen cast], [Lecture Slides], [Major Bioinformatics Databases]({{ site.baseurl }}/class-material/Major_Databases_W16.pdf)
 - **Homework**: [Readings], [Questions]  
 
+[![ScreenCast1.1](http://i.imgur.com/B9ev2Hq.png)](https://vimeo.com/151178510 "Welcome ScreenCast - Click to Watch!")
+
 <br>
 
 #### Lab (1-1): 	**Bioinformatics databases and major online resources**  
