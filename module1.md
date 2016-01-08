@@ -42,8 +42,8 @@ What are bioinformatics and computational biology?  Major NCBI and EBI bioinform
 [Handout: Major Bioinformatics Databases]({{ site.baseurl }}/class-material/Major_Databases_W16.pdf)  
 - **Homework**:  
 [Questions](https://docs.google.com/forms/d/1OZIgvobpGWRFajUXbW5mgbDtthacMcK4BK-0_4zwHME/viewform),  
-[Readings: PDF1],  
-[Readings: PDF2],   
+[Readings: PDF1](https://ctools.umich.edu/access/content/group/cd806bd4-a051-4873-9be1-4a158109a66b/Background_Reading/bioinformatics_review.pdf),  
+[Readings: PDF2](https://ctools.umich.edu/access/content/group/cd806bd4-a051-4873-9be1-4a158109a66b/Background_Reading/bioinformatics_challenges_2015.pdf),   
 
 [![ScreenCast1.1](http://i.imgur.com/B9ev2Hq.png)](https://vimeo.com/151178510 "Welcome ScreenCast - Click to Watch!")
 
