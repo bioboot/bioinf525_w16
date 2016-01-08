@@ -36,14 +36,14 @@ Bioinformatics is driving the collection, analysis and interpretation of big dat
 - **Time**: 		Jan 12 (Tuesday), 2:30 - 4:00 PM  
 - **Topics**:  
 What are bioinformatics and computational biology?  Major NCBI and EBI bioinformatics resources.  How do we actually do bioinformatics?  Major areas of research and application.  
-- **Material**: 
- - [Pre class screen cast](https://vimeo.com/151178510),  
- - [Lecture Slides: PDF], 
- - [Handout: Major Bioinformatics Databases]({{ site.baseurl }}/class-material/Major_Databases_W16.pdf)
-- **Homework**: 
- - [Questions](https://docs.google.com/forms/d/1OZIgvobpGWRFajUXbW5mgbDtthacMcK4BK-0_4zwHME/viewform), 
- - [Readings: PDF1], 
- - [Readings: PDF2],   
+- **Material**:  
+[Pre class screen cast](https://vimeo.com/151178510),  
+[Lecture Slides: PDF],  
+[Handout: Major Bioinformatics Databases]({{ site.baseurl }}/class-material/Major_Databases_W16.pdf)  
+- **Homework**:  
+[Questions](https://docs.google.com/forms/d/1OZIgvobpGWRFajUXbW5mgbDtthacMcK4BK-0_4zwHME/viewform),  
+[Readings: PDF1],  
+[Readings: PDF2],   
 
 [![ScreenCast1.1](http://i.imgur.com/B9ev2Hq.png)](https://vimeo.com/151178510 "Welcome ScreenCast - Click to Watch!")
 
