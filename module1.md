@@ -38,7 +38,7 @@ Bioinformatics is driving the collection, analysis and interpretation of big dat
 What are bioinformatics and computational biology?  Major NCBI and EBI bioinformatics resources.  How do we actually do bioinformatics?  Major areas of research and application.  
 - **Material**:  
 [Pre class screen cast](https://vimeo.com/151178510),  
-[Lecture Slides: PDF],  
+[Lecture Slides: Large PDF]({{ site.baseurl }}/class-material/lecture1-1_525_W16_large.pdf), [Small PDF]({{ site.baseurl }}/class-material/lecture1-1_525_W16_small.pdf),  
 [Handout: Major Bioinformatics Databases]({{ site.baseurl }}/class-material/Major_Databases_W16.pdf)  
 - **Homework**:  
 [Questions](https://docs.google.com/forms/d/1OZIgvobpGWRFajUXbW5mgbDtthacMcK4BK-0_4zwHME/viewform),  
