@@ -54,8 +54,9 @@ What are bioinformatics and computational biology?  Major NCBI and EBI bioinform
 - **Time**: 		2:30 – 4:00 PM, Jan 14 (Thursday) or Jan 15, 10:30 - 12:00 PM, (Friday)  
 - **Topics**:  
 The purpose of this lab session is to introduce a range of core bioinformatics databases and associated online services whilst investigating the molecular basis of several common human disease.  
-- **Material**: 
-[Lab worksheet]({{ site.baseurl }}/class-material/lab_1.1_w16.pdf)
+- **Material**:  
+[Lab worksheet]({{ site.baseurl }}/class-material/lab_1.1_w16.pdf)  
+[Muddy point assessment](http://tinyurl.com/bioinf525-lab1)  
 
 <br>
 
