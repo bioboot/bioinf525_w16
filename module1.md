@@ -85,8 +85,9 @@ Homology and sequence alignments, Dynamic programming, Sequence similarity and d
 - **Time**: 		2:30 – 4:00 PM, Jan 21 (Thursday) or Jan 22, 10:30 - 12:00 PM, (Friday)  
 - **Topics**:  
 Aligning novel sequences with previously characterized genes or proteins provides important insights into their common attributes and evolutionary origins. In this lab session we will explore the principles underlying the computational tools that can be used to compute and evaluate sequence alignments.  
-- **Material**: [Lab worksheet]
-
+- **Material**:  
+[Lab worksheet]({{ site.baseurl }}/class-material/lab_1.2_w16.pdf)  
+[Muddy point assessment](https://docs.google.com/forms/d/1yseKhk9YbvtU1Q4OMAc1S7USCpgQcCV5NrGyBNP3Izc/viewform)  
 <br>
 
 ---
