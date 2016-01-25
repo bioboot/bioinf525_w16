@@ -100,6 +100,12 @@ Aligning novel sequences with previously characterized genes or proteins provide
 - **Time**: 		Jan 26 (Tuesday), 2:30 - 4:00 PM  
 - **Topics**:  
 Major goals, current research challenges, and application areas of structural bioinformatics. Key concepts covered include: Sequence-structure-function relationships; Energy landscapes; Physics and knowledge based modeling approaches for describing the structure, energetics and dynamics of biomolecules computationally. 
+[Lecture Slides: Large PDF]({{ site.baseurl }}/class-material/lecture1-3_525_W16_large.pdf), [Small PDF]({{ site.baseurl }}/class-material/lecture1-3_525_W16_small.pdf),  
+- **Homework**:  
+[Questions](),  
+[Readings: PDF1](),  
+[Readings: PDF2](),   
+
 
 <br>
 
@@ -108,8 +114,13 @@ Major goals, current research challenges, and application areas of structural bi
 - **Time**: 2:30 – 4:00 PM, Jan 28 (Thursday) or Jan 29, 10:30 - 12:00 PM, (Friday)  
 - **Topics**:  
 The RCSB PDB resource.  Interactive biomolecular structure visualization with VMD.  Structural analysis of protein families and prediction of protein flexibility with Bio3D.  In silico docking and virtual screening strategies for drug design.
-- **Material**: [Lab worksheet]
-
+- **Material**:  
+[Lab worksheet]({{ site.baseurl }}/class-material/lab_1.3_w16.pdf)  
+Supporting Files: [indinavir.pdbqt]({{ site.baseurl }}/class-material/indinavir.pdbqt), 
+[config.txt]({{ site.baseurl }}/class-material/config.txt), 
+[log.txt]({{ site.baseurl }}/class-material/log.txt), 
+[all.pdbqt]({{ site.baseurl }}/class-material/all.pdbqt)  
+[Muddy point assessment](https://docs.google.com/forms/d/1D4lQC8m3UQmtaC-PWTJs2y9SBIU100cP2HWBsBP3jg8/viewform)  
 <br>
 
 ---
