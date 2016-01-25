@@ -102,9 +102,11 @@ Aligning novel sequences with previously characterized genes or proteins provide
 Major goals, current research challenges, and application areas of structural bioinformatics. Key concepts covered include: Sequence-structure-function relationships; Energy landscapes; Physics and knowledge based modeling approaches for describing the structure, energetics and dynamics of biomolecules computationally. 
 [Lecture Slides: Large PDF]({{ site.baseurl }}/class-material/lecture1-3_525_W16_large.pdf), [Small PDF]({{ site.baseurl }}/class-material/lecture1-3_525_W16_small.pdf),  
 - **Homework**:  
-[Questions](),  
-[Readings: PDF1](),  
-[Readings: PDF2](),   
+[Questions](https://docs.google.com/forms/d/19qbgDeSSkQ1532wKStlgOyBM7mxCoOYi8OyQEsLe38o/viewform),  
+[Readings: PDF1](http://bioinformatics.oxfordjournals.org/content/early/2014/12/06/bioinformatics.btu769.full.pdf),  
+[Readings: PDF2](https://ctools.umich.edu/access/content/group/cd806bd4-a051-4873-9be1-4a158109a66b/Background_Reading/StructurePrediction.pdf),   
+[Readings: PDF3](https://ctools.umich.edu/access/content/group/cd806bd4-a051-4873-9be1-4a158109a66b/Background_Reading/MD.pdf),  
+[Readings: PDF4](https://ctools.umich.edu/access/content/group/cd806bd4-a051-4873-9be1-4a158109a66b/Background_Reading/DrugDesign.pdf),   
 
 
 <br>
