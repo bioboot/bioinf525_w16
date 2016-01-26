@@ -74,7 +74,7 @@ Homology and sequence alignments, Dynamic programming, Sequence similarity and d
 [Lecture Slides: Large PDF]({{ site.baseurl }}/class-material/lecture1-2_525_W16_large.pdf), [Small PDF]({{ site.baseurl }}/class-material/lecture1-2_525_W16_small.pdf),  
 - **Homework**:  
 [Questions](https://docs.google.com/forms/d/1AFsMMV26wq_2k0AKQ0p5A7KFdSts1H8tOhkdoV3TUq8/viewform),  
-[Answers](https://ctools.umich.edu/access/content/group/cd806bd4-a051-4873-9be1-4a158109a66b/Background_Reading/Bioinf525_HomeWork_1.2_W16.pdf)
+[Answers](https://ctools.umich.edu/access/content/group/cd806bd4-a051-4873-9be1-4a158109a66b/Background_Reading/Bioinf525_HomeWork_1.2_W16.pdf)  
 [Readings: PDF1](https://ctools.umich.edu/access/content/group/cd806bd4-a051-4873-9be1-4a158109a66b/Background_Reading/Dynamic_programming_primer.pdf),  
 [Readings: PDF2](https://ctools.umich.edu/access/content/group/cd806bd4-a051-4873-9be1-4a158109a66b/Background_Reading/Fundamentals.pdf),   
 
