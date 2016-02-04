@@ -138,6 +138,9 @@ Supporting Files: [indinavir.pdbqt]({{ site.baseurl }}/class-material/indinavir.
 High throughput sequencing technologies, biological applications and bioinformatics analysis methods.  Web interfaces to genome databases at Ensembl and UCSC.  
 [Lecture Slides](https://umich.app.box.com/s/0bn5g88v6xp9id6d3j595b22ukb71uvm), 
 [Large PDF]({{ site.baseurl }}/class-material/lecture1-4_525_W16_large.pdf).  
+[Readings: PDF1](https://ctools.umich.edu/access/content/group/cd806bd4-a051-4873-9be1-4a158109a66b/Background_Reading/HTSequencing_review.pdf)  
+[Readings: PDF2](https://ctools.umich.edu/access/content/group/cd806bd4-a051-4873-9be1-4a158109a66b/Background_Reading/nrg2626.pdf)  
+[Readings: PDF3](https://ctools.umich.edu/access/content/group/cd806bd4-a051-4873-9be1-4a158109a66b/Background_Reading/Charting_a_course_for_genomic_medicine_from_base_pairs_to_bedside_Nature2011.pdf)  
 
 <br>
 
