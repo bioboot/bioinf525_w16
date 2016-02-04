@@ -145,7 +145,9 @@ High throughput sequencing technologies, biological applications and bioinformat
 - **Time**: 		2:30 – 4:00 PM, Feb 4 (Thursday) or Feb 5, 10:30 - 12:00 PM, (Friday)
 - **Topics**:
 The Galaxy web-based platform for genomic data analysis. Manipulation and analysis of next generation sequencing data sets.
-- **Material**: [Lab worksheet]
+- **Material**:  
+[Lab worksheet]({{ site.baseurl }}/class-material/BIOINF525_Lab4_2016.pdf)  
+Supporting Files: [HG00109_1.fastq]({{ site.baseurl }}/class-material/HG00109_1.fastq), [HG00109_2.fastq]({{ site.baseurl }}/class-material/HG00109_2.fastq), [genes.chr17.gtf]({{ site.baseurl }}/class-material/genes.chr17.gtf).  
 
 
 <br>
