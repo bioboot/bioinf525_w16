@@ -40,13 +40,15 @@ Basic statistics as used in bioinformatics, especially standard statistical test
 - **Time**: 		Feb 9 (Tuesday), 2:30 - 4:00 PM
 - **Topics**: 
 Probability distributions, quantifying central values and variability, quantifying association, graphical displays of data
+- **Material**:  
+We will be using R throughout this module to demonstrate data analyses concepts and best practices.  In preparation for our first lab session we are requesting that you all complete the free online interactive learning tutorial [“TryR” (http://tryr.codeschool.com)](http://tryr.codeschool.com).  This will take you through a gentle introduction to R syntax and some of the major R data structures (called vectors, matrices and data.frames).  
 
 <br>
 
 #### Lab (2-1): 	**Descriptive statistics and summarizing data**
 - **Time**: 		2:30 – 4:00 PM, Feb 11 (Thursday) or Feb 12, 10:30 - 12:00 PM, (Friday)
 - **Topics**:
-Probability distributions, quantifying central values and variability, quantifying association, graphical displays of data
+Introduction to R, probability distributions, quantifying central values and variability, quantifying association, graphical displays of data.
 
 <br>
 
