@@ -41,6 +41,7 @@ Basic statistics as used in bioinformatics, especially standard statistical test
 - **Topics**: 
 Probability distributions, quantifying central values and variability, quantifying association, graphical displays of data
 - **Material**:  
+[Lecture slides (PDF)]({{ site.baseurl }}/class-material/BI525W16Lec2.1.pdf)  
 We will be using R throughout this module to demonstrate data analyses concepts and best practices.  In preparation for our first lab session we are requesting that you all complete the free online interactive learning tutorial [“TryR” (http://tryr.codeschool.com)](http://tryr.codeschool.com).  This will take you through a gentle introduction to R syntax and some of the major R data structures (called vectors, matrices and data.frames).  
 
 <br>
