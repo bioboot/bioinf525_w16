@@ -51,7 +51,7 @@ We will be using R throughout this module to demonstrate data analyses concepts 
 - **Topics**:
 Introduction to R, probability distributions, quantifying central values and variability, quantifying association, graphical displays of data.
 - **Material**:  
-Lab worksheet  
+[Lab worksheet]({{ site.baseurl }}/class-material/lab2.2_w16.pdf)  
 Dataset [TROPHY.csv](https://ctools.umich.edu/portal/tool/26056f74-c6c5-4c88-b84e-33eb2e0a4f1d?panel=Main#)  
 Readings [Feasibility of Treating Prehypertension with an Angiotensin-Receptor Blocker (TROPHY. S. Julius 2006)](https://ctools.umich.edu/access/content/group/cd806bd4-a051-4873-9be1-4a158109a66b/Module%202/Feasibility%20of%20Treating%20Prehypertension%20with%20an%20Angiotensin-Receptor%20Blocker_TROPHY.%20S.%20Julius%202006_.pdf)  
 Muddy point assessment  
