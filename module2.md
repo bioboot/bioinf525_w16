@@ -51,7 +51,7 @@ We will be using R throughout this module to demonstrate data analyses concepts 
 - **Topics**:
 Introduction to R, probability distributions, quantifying central values and variability, quantifying association, graphical displays of data.
 - **Material**:  
-[PDF slides: Introduction to R]({{ site.baseurl }}/class-material/Introduction_to_R.pdf)  
+[PDF slides: Introduction to R]({{ site.baseurl }}/class-material/Introduction_to_R.pdf), [Video](https://www.youtube.com/watch?v=BlFUKYwwksk)  
 [Lab worksheet]({{ site.baseurl }}/class-material/lab2.1_w16.pdf)  
 [Lab worksheet with key](https://ctools.umich.edu/access/content/group/cd806bd4-a051-4873-9be1-4a158109a66b/Module%202/Labs/Lab1%20with%20Key.pdf)  
 Dataset [TROPHY.csv](https://ctools.umich.edu/portal/tool/26056f74-c6c5-4c88-b84e-33eb2e0a4f1d?panel=Main#)  
