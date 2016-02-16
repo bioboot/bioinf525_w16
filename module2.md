@@ -71,6 +71,8 @@ Readings [Feasibility of Treating Prehypertension with an Angiotensin-Receptor B
 - **Time**: 		Feb 16 (Tuesday), 2:30 - 4:00 PM
 - **Topics**:
 Estimation and standard errors, standard errors for means, correlations, and log odds ratios, formal hypothesis testing, tests involving means, correlations, and log odds ratios, power.
+- **Material**:  
+[Lecture slides (PDF)]({{ site.baseurl }}/class-material/BI525W16Lec2.2.pdf)  
 
 <br>
 
