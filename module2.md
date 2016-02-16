@@ -80,6 +80,12 @@ Estimation and standard errors, standard errors for means, correlations, and log
 - **Time**: 		2:30 – 4:00 PM, Feb 18 (Thursday) or Feb 19, 10:30 - 12:00 PM, (Friday)
 - **Topics**: 
 Estimation and standard errors, standard errors for means, correlations, and log odds ratios, formal hypothesis testing, one and two sample tests involving means, power.
+- **Material**:  
+[Lab worksheet]({{ site.baseurl }}/class-material/lab_2.2_w16.pdf)  
+Dataset [TROPHY.csv](https://ctools.umich.edu/portal/tool/26056f74-c6c5-4c88-b84e-33eb2e0a4f1d?panel=Main#)  
+Readings [R Data Types]({{ site.baseurl }}/class-material/Data Types.pdf)  
+[Muddy point assessment](https://docs.google.com/forms/d/1pBpHR8kFX4YKklD1Vzha0UgEYqRs3povnH47HrFk7fM/viewform)  
+- **Homework**:  
 
 <br>
 
