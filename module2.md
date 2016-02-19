@@ -86,7 +86,7 @@ Estimation and standard errors, standard errors for means, correlations, and log
 Dataset [TROPHY.csv](https://ctools.umich.edu/portal/tool/26056f74-c6c5-4c88-b84e-33eb2e0a4f1d?panel=Main#)  
 [Muddy point assessment](https://docs.google.com/forms/d/1pBpHR8kFX4YKklD1Vzha0UgEYqRs3povnH47HrFk7fM/viewform)  
 - **Homework**:  
-[Homework Assignment 1]({{ site.baseurl }}/class-material/525W16_module2_HW2.doc)  
+[Homework Assignment 2]({{ site.baseurl }}/class-material/525W16_module2_HW2.doc)  
 
 <br>
 
