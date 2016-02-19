@@ -82,9 +82,11 @@ Estimation and standard errors, standard errors for means, correlations, and log
 Estimation and standard errors, standard errors for means, correlations, and log odds ratios, formal hypothesis testing, one and two sample tests involving means, power.
 - **Material**:  
 [Lab worksheet]({{ site.baseurl }}/class-material/lab_2.2_w16.pdf)  
+[Lab worksheet with key](https://ctools.umich.edu/access/content/group/cd806bd4-a051-4873-9be1-4a158109a66b/Module%202/Labs/Lab2%20with%20Key.pdf)  
 Dataset [TROPHY.csv](https://ctools.umich.edu/portal/tool/26056f74-c6c5-4c88-b84e-33eb2e0a4f1d?panel=Main#)  
 [Muddy point assessment](https://docs.google.com/forms/d/1pBpHR8kFX4YKklD1Vzha0UgEYqRs3povnH47HrFk7fM/viewform)  
 - **Homework**:  
+[Homework Assignment 1]({{ site.baseurl }}/class-material/525W16_module2_HW2.doc)  
 
 <br>
 
