@@ -104,7 +104,7 @@ Pearson correlation, t-test, odds ratios, discussion of a research article
 <br>
 
 #### Lab (2-3): 	**Pearson correlation, t-test, and log odds ratios**
-- **Time**: 		2:30 – 4:00 PM, Feb 25 (Thursday) or Mar 26, 10:30 - 12:00 PM, (Friday)
+- **Time**: 		2:30 – 4:00 PM, Feb 25 (Thursday) or **Feb** 26, 10:30 - 12:00 PM, (Friday)
 - **Topics**:
 Tests based on Pearson correlation t-test, and log odds ratios
 
