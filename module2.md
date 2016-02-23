@@ -98,6 +98,8 @@ Dataset [TROPHY.csv](https://ctools.umich.edu/portal/tool/26056f74-c6c5-4c88-b84
 - **Time**: 		Feb 23 (Tuesday), 2:30 - 4:00 PM
 - **Topics**:
 Pearson correlation, t-test, odds ratios, discussion of a research article
+- **Material**:  
+[Lecture slides (PDF)]({{ site.baseurl }}/class-material/BI525W16Lec2.3.pdf)  
 
 <br>
 
