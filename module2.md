@@ -107,6 +107,10 @@ Pearson correlation, t-test, odds ratios, discussion of a research article
 - **Time**: 		2:30 – 4:00 PM, Feb 25 (Thursday) or **Feb** 26, 10:30 - 12:00 PM, (Friday)
 - **Topics**:
 Tests based on Pearson correlation t-test, and log odds ratios
+- **Material**:  
+[Lab worksheet]({{ site.baseurl }}/class-material/lab_2.3_w16.pdf)  
+[Muddy point assessment](https://docs.google.com/a/umich.edu/forms/d/1P_ldx1K8BJUr2V9ahi4HXymnjvrXXv-hMiopHrkQjIs/viewform)  
+
 
 <br>
 
