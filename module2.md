@@ -122,6 +122,8 @@ Tests based on Pearson correlation t-test, and log odds ratios
 - **Time**: 		Mar 8 (Tuesday), 2:30 - 4:00 PM
 - **Topics**:
 Single and multiple variable linear regression, Bonferroni correction, power for regression analysis
+- **Material**:  
+[Lecture slides (PDF)]({{ site.baseurl }}/class-material/BI525W16Lec2.4.pdf)  
 
 <br>
 
