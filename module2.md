@@ -59,6 +59,7 @@ Readings [Feasibility of Treating Prehypertension with an Angiotensin-Receptor B
 [Muddy point assessment](https://docs.google.com/forms/d/1cMIZVNnQj5YUmo_Dl3hPqg4bPx3tP0LoKkqj5WpzP6k/viewform)  
 - **Homework**:  
 [Homework Assignment 1]({{ site.baseurl }}/class-material/525W16_module2_HW1.doc)  
+[Homework Assignment 1 with key](https://ctools.umich.edu/access/content/group/cd806bd4-a051-4873-9be1-4a158109a66b/Module%202/Homework/525W16_module2_HW1-key.pdf)  
 
 <br>
 
@@ -109,6 +110,7 @@ Pearson correlation, t-test, odds ratios, discussion of a research article
 Tests based on Pearson correlation t-test, and log odds ratios
 - **Material**:  
 [Lab worksheet]({{ site.baseurl }}/class-material/lab_2.3_w16.pdf)  
+[Lab worksheet with key](https://ctools.umich.edu/access/content/group/cd806bd4-a051-4873-9be1-4a158109a66b/Module%202/Labs/Lab3%20with%20Key.pdf)  
 [Muddy point assessment](https://docs.google.com/a/umich.edu/forms/d/1P_ldx1K8BJUr2V9ahi4HXymnjvrXXv-hMiopHrkQjIs/viewform)  
 
 
