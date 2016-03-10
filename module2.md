@@ -88,6 +88,8 @@ Dataset [TROPHY.csv](https://ctools.umich.edu/portal/tool/26056f74-c6c5-4c88-b84
 [Muddy point assessment](https://docs.google.com/forms/d/1pBpHR8kFX4YKklD1Vzha0UgEYqRs3povnH47HrFk7fM/viewform)  
 - **Homework**:  
 [Homework Assignment 2]({{ site.baseurl }}/class-material/525W16_module2_HW2.doc)  
+[Homework Assignment 2 with key](https://ctools.umich.edu/access/content/group/cd806bd4-a051-4873-9be1-4a158109a66b/Module%202/Homework/525W16_module2_HW2-key.pdf)  
+
 
 <br>
 
@@ -133,6 +135,9 @@ Single and multiple variable linear regression, Bonferroni correction, power for
 - **Time**: 		2:30 – 4:00 PM, Mar 10 (Thursday) or Mar 11, 10:30 - 12:00 PM, (Friday)
 - **Topics**:
 Fitting regression models for prediction and effect estimation, inference for regression effects, R^2, diagnostics, comparing models
+- **Material**:  
+[Lab worksheet]({{ site.baseurl }}/class-material/lab_2.4_w16.pdf)  
+[Muddy point assessment](https://docs.google.com/forms/d/1tpTEqpT837pSm_8NEty3vUE-7nIMDY3_nx3mGlk5qmg/viewform) 
 
 <br>
 
