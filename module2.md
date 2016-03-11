@@ -114,7 +114,8 @@ Tests based on Pearson correlation t-test, and log odds ratios
 [Lab worksheet]({{ site.baseurl }}/class-material/lab_2.3_w16.pdf)  
 [Lab worksheet with key](https://ctools.umich.edu/access/content/group/cd806bd4-a051-4873-9be1-4a158109a66b/Module%202/Labs/Lab3%20with%20Key.pdf)  
 [Muddy point assessment](https://docs.google.com/a/umich.edu/forms/d/1P_ldx1K8BJUr2V9ahi4HXymnjvrXXv-hMiopHrkQjIs/viewform)  
-
+- **Homework**:  
+[Homework Assignment 3]({{ site.baseurl }}/class-material/525W16_module2_HW3.doc)  
 
 <br>
 
@@ -137,6 +138,7 @@ Single and multiple variable linear regression, Bonferroni correction, power for
 Fitting regression models for prediction and effect estimation, inference for regression effects, R^2, diagnostics, comparing models
 - **Material**:  
 [Lab worksheet]({{ site.baseurl }}/class-material/lab_2.4_w16.pdf)  
+[Lab worksheet with key](https://ctools.umich.edu/access/content/group/cd806bd4-a051-4873-9be1-4a158109a66b/Module%202/Labs/Lab4%20with%20Key.pdf)  
 [Muddy point assessment](https://docs.google.com/forms/d/1tpTEqpT837pSm_8NEty3vUE-7nIMDY3_nx3mGlk5qmg/viewform) 
 
 <br>
