@@ -169,7 +169,7 @@ Multivariate data, Heat maps and dendrograms, clustering methods, principal comp
 <br>
 
 ### Reference material
-[RStudio cheatsheet](http://www.rstudio.com/wp-content/uploads/2016/01/rstudio-IDE-cheatsheet.pdf): well designed /reference card for RStudio features. 
+[RStudio cheatsheet](http://www.rstudio.com/wp-content/uploads/2016/01/rstudio-IDE-cheatsheet.pdf): well designed reference card for RStudio features.  
 [Try R]() An excellent interactive online R tutorial.  
 <!--- files dont exist yet...
 [Slides-2.1]()
