@@ -139,7 +139,10 @@ Fitting regression models for prediction and effect estimation, inference for re
 - **Material**:  
 [Lab worksheet]({{ site.baseurl }}/class-material/lab_2.4_w16.pdf)  
 [Lab worksheet with key](https://ctools.umich.edu/access/content/group/cd806bd4-a051-4873-9be1-4a158109a66b/Module%202/Labs/Lab4%20with%20Key.pdf)  
-[Muddy point assessment](https://docs.google.com/forms/d/1tpTEqpT837pSm_8NEty3vUE-7nIMDY3_nx3mGlk5qmg/viewform) 
+[Muddy point assessment](https://docs.google.com/forms/d/1tpTEqpT837pSm_8NEty3vUE-7nIMDY3_nx3mGlk5qmg/viewform)  
+- **Homework**:  
+[Homework Assignment 4]({{ site.baseurl }}/class-material/525W16_module2_HW4.docx)  
+
 
 <br>
 
@@ -151,6 +154,9 @@ Fitting regression models for prediction and effect estimation, inference for re
 - **Time**: 		Mar 15 (Tuesday), 2:30 - 4:00 PM
 - **Topics**:
 Clustering methods, Multidimensional scaling and Principal component analysis
+- **Material**:  
+[Lecture slides (PDF)]({{ site.baseurl }}/class-material/BI525W16Lec2.5.pdf)  
+
 
 <br>
 
