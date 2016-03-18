@@ -116,6 +116,7 @@ Tests based on Pearson correlation t-test, and log odds ratios
 [Muddy point assessment](https://docs.google.com/a/umich.edu/forms/d/1P_ldx1K8BJUr2V9ahi4HXymnjvrXXv-hMiopHrkQjIs/viewform)  
 - **Homework**:  
 [Homework Assignment 3]({{ site.baseurl }}/class-material/525W16_module2_HW3.doc)  
+[Homework Assignment 3 with key](https://ctools.umich.edu/access/content/group/cd806bd4-a051-4873-9be1-4a158109a66b/Module%202/Homework/525W16_module2_HW3%20-%20KEY.pdf)  
 
 <br>
 
@@ -164,7 +165,9 @@ Clustering methods, Multidimensional scaling and Principal component analysis
 - **Time**: 		2:30 – 4:00 PM, Mar 17 (Thursday) or Mar 18, 10:30 - 12:00 PM, (Friday)
 - **Topics**:
 Multivariate data, Heat maps and dendrograms, clustering methods, principal component analysis 
-
+- **Material**:  
+[Lab worksheet with key](https://ctools.umich.edu/access/content/group/cd806bd4-a051-4873-9be1-4a158109a66b/Module%202/Labs/lab_2.5_with_key.pdf)  
+[Muddy point assessment](https://docs.google.com/forms/d/1B2xIMitIxIhYxkvn_kZ4eKDREhZksoGwBX6NtzWIRQE/viewform)
 
 <br>
 
