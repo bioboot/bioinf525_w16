@@ -45,7 +45,9 @@ What are bioinformatics and computational biology?  Major NCBI and EBI bioinform
 - **Time**: 		2:30 – 4:00 PM, Mar 24 (Thursday) or Mar 25, 10:30 - 12:00 PM, (Friday)  
 - **Topics**:  
 Representation of data as graphs.  Pathway and network exploration and visualization with Cytoscape, including the MetScape app, in addition to ConceptGen.  
-- **Material**: [Lab worksheet]
+- **Material**:  
+[Lab slides]({{ site.baseurl }}/class-material/Bfx525_2016_Cytoscape_Final.pptx)  
+Supporting Files: [Reactomedata.txt]({{ site.baseurl }}/class-material/Reactomedata.txt), [aminoacids.output.pcor_lasso.17of23.csv]({{ site.baseurl }}/class-material/aminoacids.output.pcor_lasso.17of23.csv), [cytoscapeoverview.txt]({{ site.baseurl }}/class-material/cytoscapeoverview.txt), [metscape_test.csv]({{ site.baseurl }}/class-material/metscape_test.csv)  
 
 <br>
 
