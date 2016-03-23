@@ -48,6 +48,7 @@ Representation of data as graphs.  Pathway and network exploration and visualiz
 - **Material**:  
 [Lab slides]({{ site.baseurl }}/class-material/Bfx525_2016_Cytoscape_Final.pptx)  
 Supporting Files: [Reactomedata.txt]({{ site.baseurl }}/class-material/Reactomedata.txt), [aminoacids.output.pcor_lasso.17of23.csv]({{ site.baseurl }}/class-material/aminoacids.output.pcor_lasso.17of23.csv), [cytoscapeoverview.txt]({{ site.baseurl }}/class-material/cytoscapeoverview.txt), [metscape_test.csv]({{ site.baseurl }}/class-material/metscape_test.csv)  
+[Muddy point assessment](https://docs.google.com/forms/d/1WUDoBCwzH8wNF46rDNLtTw-DVUqJDu9rt5XTfwPj2mA/viewform)  
 
 <br>
 
