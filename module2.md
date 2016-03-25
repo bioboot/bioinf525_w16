@@ -143,7 +143,7 @@ Fitting regression models for prediction and effect estimation, inference for re
 [Muddy point assessment](https://docs.google.com/forms/d/1tpTEqpT837pSm_8NEty3vUE-7nIMDY3_nx3mGlk5qmg/viewform)  
 - **Homework**:  
 [Homework Assignment 4]({{ site.baseurl }}/class-material/525W16_module2_HW4.docx)  
-
+[Homework Assignment 4 with key](https://ctools.umich.edu/access/content/group/cd806bd4-a051-4873-9be1-4a158109a66b/Module%202/Homework/525W16_module2_HW4%20Key.pdf)  
 
 <br>
 
