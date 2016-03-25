@@ -35,8 +35,11 @@ Computational analysis of OMICs data (genomics, transcriptomics, proteomics).  A
 - **Time**: 		Mar 22 (Tuesday), 2:30 - 4:00 PM  
 - **Topics**:  
 What are bioinformatics and computational biology?  Major NCBI and EBI bioinformatics resources.  How do we actually do bioinformatics?  Major areas of research and application.  
-- **Material**: [Pre class screen cast], [Lecture Slides], [Major Bioinformatics Databases]
-- **Homework**: [Readings], [Questions]  
+- **Material**:  
+[Lecture Slides]({{ site.baseurl }}/class-material/lecture3-1.pdf)  
+Readings 
+[A glutamatergic network mediates lithium response in bipolar disorder](https://ctools.umich.edu/access/content/group/cd806bd4-a051-4873-9be1-4a158109a66b/Module%203/A%20glutamatergic%20network%20mediates%20lithium%20response%20in%20bipolar%20disorder.pdf), [Cold Spring Harb Perspect Biol-2015-Dekker-](https://ctools.umich.edu/access/content/group/cd806bd4-a051-4873-9be1-4a158109a66b/Module%203/Cold%20Spring%20Harb%20Perspect%20Biol-2015-Dekker-.pdf), [Ten Years of Pathway Analysis](https://ctools.umich.edu/access/content/group/cd806bd4-a051-4873-9be1-4a158109a66b/Module%203/Ten%20Years%20of%20Pathway%20Analysis.pdf)  
+
 
 <br>
 
