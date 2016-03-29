@@ -37,7 +37,7 @@ Computational analysis of OMICs data (genomics, transcriptomics, proteomics).  A
 What are bioinformatics and computational biology?  Major NCBI and EBI bioinformatics resources.  How do we actually do bioinformatics?  Major areas of research and application.  
 - **Material**:  
 [Lecture Slides]({{ site.baseurl }}/class-material/lecture3-1.pdf)  
-Readings 
+Readings  
 [A glutamatergic network mediates lithium response in bipolar disorder](https://ctools.umich.edu/access/content/group/cd806bd4-a051-4873-9be1-4a158109a66b/Module%203/A%20glutamatergic%20network%20mediates%20lithium%20response%20in%20bipolar%20disorder.pdf), [Cold Spring Harb Perspect Biol-2015-Dekker-](https://ctools.umich.edu/access/content/group/cd806bd4-a051-4873-9be1-4a158109a66b/Module%203/Cold%20Spring%20Harb%20Perspect%20Biol-2015-Dekker-.pdf), [Ten Years of Pathway Analysis](https://ctools.umich.edu/access/content/group/cd806bd4-a051-4873-9be1-4a158109a66b/Module%203/Ten%20Years%20of%20Pathway%20Analysis.pdf)  
 
 
@@ -60,18 +60,20 @@ Supporting Files: [Reactomedata.txt]({{ site.baseurl }}/class-material/Reactomed
 <br>
 
 #### Lecture (3-2): **Epigenome data mining to understand disease predisposition**  
-- **Instructor**: 	Dr. Steven Parker  
+- **Instructor**: 	Dr. Stephen Parker  
 - **Time**: 		Mar 29 (Tuesday), 2:30 - 4:00 PM  
 - **Topics**:  
 For decades, substantial research efforts have focused on the <2% of the human genome that encodes proteins. Recent epigenome-based functional genomic analyses and genome-wide association studies (GWAS) together implicate non-coding DNA regulatory elements as critical regions influencing gene expression, risk for common diseases, variation in physiological traits, and evolution across species. Because they represent the convergent point of evolutionary, genetic, developmental, and environmental inputs, basal epigenomic signatures and their dynamic changes are central to understanding biological function. This lecture will explore epigenomic assays and bioinformatic analyses and how these approaches can help untangle disease mechanisms. 
 - **Material**:  
 [Lecture Slides]({{ site.baseurl }}/class-material/lecture3-2.pptx)  
+Readings  
+[Integrative analysis of 111 reference human epigenomes](https://ctools.umich.edu/access/content/group/cd806bd4-a051-4873-9be1-4a158109a66b/Module%203/Integrative%20analysis%20of%20111%20reference%20human%20epigenomes.pdf)  
 
 
 <br>
 
 #### Lab (3-2): 	**Epigenome profiling and disease links**  
-- **Instructor**: 	Dr. Steven Parker  
+- **Instructor**: 	Dr. Stephen Parker  
 - **Time**: 2:30 – 4:00 PM, Mar 31 (Thursday) or Apr 1, 10:30 - 12:00 PM, (Friday)  
 - **Topics**:  
 Students will learn how to computationally process epigenomic data, create interactive displays of these profiles, and then use the profiles to interpret disease associated genetic variations.
