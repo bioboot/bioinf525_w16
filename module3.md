@@ -64,6 +64,9 @@ Supporting Files: [Reactomedata.txt]({{ site.baseurl }}/class-material/Reactomed
 - **Time**: 		Mar 29 (Tuesday), 2:30 - 4:00 PM  
 - **Topics**:  
 For decades, substantial research efforts have focused on the <2% of the human genome that encodes proteins. Recent epigenome-based functional genomic analyses and genome-wide association studies (GWAS) together implicate non-coding DNA regulatory elements as critical regions influencing gene expression, risk for common diseases, variation in physiological traits, and evolution across species. Because they represent the convergent point of evolutionary, genetic, developmental, and environmental inputs, basal epigenomic signatures and their dynamic changes are central to understanding biological function. This lecture will explore epigenomic assays and bioinformatic analyses and how these approaches can help untangle disease mechanisms. 
+- **Material**:  
+[Lecture Slides]({{ site.baseurl }}/class-material/lecture3-2.pptx)  
+
 
 <br>
 
