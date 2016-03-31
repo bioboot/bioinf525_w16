@@ -79,6 +79,8 @@ Readings
 Students will learn how to computationally process epigenomic data, create interactive displays of these profiles, and then use the profiles to interpret disease associated genetic variations.
 - **Material**:  
 [Lab Link](https://github.com/ParkerLab/bioinf525)
+[Muddy point assessment](https://docs.google.com/forms/d/1P3zEXxybasJWttziZ9F_osiFaM1418Zu0vppH--GtoM/viewform)  
+
 
 <br>
 
