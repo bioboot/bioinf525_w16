@@ -77,7 +77,8 @@ Readings
 - **Time**: 2:30 – 4:00 PM, Mar 31 (Thursday) or Apr 1, 10:30 - 12:00 PM, (Friday)  
 - **Topics**:  
 Students will learn how to computationally process epigenomic data, create interactive displays of these profiles, and then use the profiles to interpret disease associated genetic variations.
-- **Material**: [Lab worksheet]
+- **Material**:  
+[Lab Link](https://github.com/ParkerLab/bioinf525)
 
 <br>
 
