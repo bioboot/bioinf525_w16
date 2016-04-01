@@ -38,7 +38,9 @@ What are bioinformatics and computational biology?  Major NCBI and EBI bioinform
 - **Material**:  
 [Lecture Slides]({{ site.baseurl }}/class-material/lecture3-1.pdf)  
 Readings  
-[A glutamatergic network mediates lithium response in bipolar disorder](https://ctools.umich.edu/access/content/group/cd806bd4-a051-4873-9be1-4a158109a66b/Module%203/A%20glutamatergic%20network%20mediates%20lithium%20response%20in%20bipolar%20disorder.pdf), [Cold Spring Harb Perspect Biol-2015-Dekker-](https://ctools.umich.edu/access/content/group/cd806bd4-a051-4873-9be1-4a158109a66b/Module%203/Cold%20Spring%20Harb%20Perspect%20Biol-2015-Dekker-.pdf), [Ten Years of Pathway Analysis](https://ctools.umich.edu/access/content/group/cd806bd4-a051-4873-9be1-4a158109a66b/Module%203/Ten%20Years%20of%20Pathway%20Analysis.pdf)  
+[A glutamatergic network mediates lithium response in bipolar disorder](https://ctools.umich.edu/access/content/group/cd806bd4-a051-4873-9be1-4a158109a66b/Module%203/A%20glutamatergic%20network%20mediates%20lithium%20response%20in%20bipolar%20disorder.pdf),  
+[Cold Spring Harb Perspect Biol-2015-Dekker-](https://ctools.umich.edu/access/content/group/cd806bd4-a051-4873-9be1-4a158109a66b/Module%203/Cold%20Spring%20Harb%20Perspect%20Biol-2015-Dekker-.pdf),  
+[Ten Years of Pathway Analysis](https://ctools.umich.edu/access/content/group/cd806bd4-a051-4873-9be1-4a158109a66b/Module%203/Ten%20Years%20of%20Pathway%20Analysis.pdf)  
 
 
 <br>
@@ -50,7 +52,11 @@ Readings
 Representation of data as graphs.  Pathway and network exploration and visualization with Cytoscape, including the MetScape app, in addition to ConceptGen.  
 - **Material**:  
 [Lab slides]({{ site.baseurl }}/class-material/Bfx525_2016_Cytoscape_Final.pptx)  
-Supporting Files: [Reactomedata.txt]({{ site.baseurl }}/class-material/Reactomedata.txt), [aminoacids.output.pcor_lasso.17of23.csv]({{ site.baseurl }}/class-material/aminoacids.output.pcor_lasso.17of23.csv), [cytoscapeoverview.txt]({{ site.baseurl }}/class-material/cytoscapeoverview.txt), [metscape_test.csv]({{ site.baseurl }}/class-material/metscape_test.csv)  
+Supporting Files:  
+[Reactomedata.txt]({{ site.baseurl }}/class-material/Reactomedata.txt),  
+[aminoacids.output.pcor_lasso.17of23.csv]({{ site.baseurl }}/class-material/aminoacids.output.pcor_lasso.17of23.csv),  
+[cytoscapeoverview.txt]({{ site.baseurl }}/class-material/cytoscapeoverview.txt),  
+[metscape_test.csv]({{ site.baseurl }}/class-material/metscape_test.csv)  
 [Muddy point assessment](https://docs.google.com/forms/d/1WUDoBCwzH8wNF46rDNLtTw-DVUqJDu9rt5XTfwPj2mA/viewform)  
 
 <br>
@@ -78,7 +84,7 @@ Readings
 - **Topics**:  
 Students will learn how to computationally process epigenomic data, create interactive displays of these profiles, and then use the profiles to interpret disease associated genetic variations.
 - **Material**:  
-[Lab Link](https://github.com/ParkerLab/bioinf525)
+[Lab Link](https://github.com/ParkerLab/bioinf525)  
 [Muddy point assessment](https://docs.google.com/forms/d/1P3zEXxybasJWttziZ9F_osiFaM1418Zu0vppH--GtoM/viewform)  
 
 
