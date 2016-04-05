@@ -99,6 +99,9 @@ Students will learn how to computationally process epigenomic data, create inter
 - **Time**:         Apr 5 (Tuesday), 2:30 - 4:00 PM  
 - **Topics**:  
 Introduction to computational clinical decision support systems. Machine learning and its application to biomedical informatics.
+- **Material**:  
+Lecture Slides: [PDF]({{ site.baseurl }}/class-material/Systems Biology for Clinical Decision Support Systems I v4.pdf), [PPTX]({{ site.baseurl }}/class-material/Systems Biology for Clinical Decision Support Systems I v4.pptx)  
+
 
 <br>
 
@@ -107,7 +110,12 @@ Introduction to computational clinical decision support systems. Machine learnin
 - **Time**:         2:30 – 4:00 PM, Apr 7 (Thursday) or Apr 8, 10:30 - 12:00 PM, (Friday)  
 - **Topics**:  
 Introduction to WEKA, using machine learning methods such as SVM, Random Forest, Neural Networks for simple examples in systems biology, using WEKA for feature extraction and analysis.  
-- **Material**: [Lab worksheet]
+- **Material**:  
+[Lab worksheet]  
+Supporting Files:  
+[TestData525 info gain filtered.csv]({{ site.baseurl }}/class-material/TestData525 info gain filtered.csv),  
+[TestData525 v2.csv]({{ site.baseurl }}/class-material/TestData525 v2.csv)  
+
 
 <br>
 
