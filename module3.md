@@ -128,6 +128,8 @@ Supporting Files:
 - **Time**: 		Apr 12 (Tuesday), 2:30 - 4:00 PM  
 - **Topics**:  
 Integrating genome wide data sets with high-resolution clinical phenotypes, molecular marker definition, regulatory network generation in patient samples.  
+- **Material**:  
+[Lecture Slides]({{ site.baseurl }}/class-material/BI525W16Lec3.4.pdf)  
 
 <br>
 
