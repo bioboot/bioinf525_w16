@@ -138,7 +138,10 @@ Integrating genome wide data sets with high-resolution clinical phenotypes, mole
 - **Time**: 		2:30 – 4:00 PM, Apr 14 (Thursday) or  Apr 15, 10:30 - 12:00 PM, (Friday)
 - **Topics**:
 Introduction to web based systems biology resources including Oncomine and Nephromine.
-- **Material**: [Lab worksheet]
+- **Material**:  
+Lab Slides:  
+[PPTX]({{ site.baseurl }}/class-material/Gene Expression Databases_525_2016.pptx)  
+[PDF]({{ site.baseurl }}/class-material/Gene Expression Databases_525_2016.pdf)  
 
 
 <br>
