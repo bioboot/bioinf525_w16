@@ -7,7 +7,7 @@ permalink: /module2/
 
 # Module 2. Introduction to Statistics in Bioinformatics
 
-Basic statistics as used in bioinformatics, especially standard statistical tests of significance and when they apply. Applications to genetics, experimental and observational medical data, as well as exploration of multiple testing issues that arise in bioinformatics and other experimental settings. NOTE: Dr. Kaciroti is the instructor for all Module 2 lectures and labs.
+Basic statistics as used in bioinformatics, especially standard statistical tests of significance and when they apply. Applications to genetics, experimental and observational medical data, as well as exploration of multiple testing issues that arise in bioinformatics and other experimental settings. 
 
 
   
