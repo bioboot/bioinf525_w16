@@ -44,7 +44,11 @@ Probability distributions, quantifying central values and variability, quantifyi
 [Lecture slides (PDF)]({{ site.baseurl }}/class-material/BI525W16Lec2.1.pdf)  
 We will be using R throughout this module to demonstrate data analyses concepts and best practices.  In preparation for our first lab session we are requesting that you all complete the free online interactive learning tutorial [“TryR” (http://tryr.codeschool.com)](http://tryr.codeschool.com).  This will take you through a gentle introduction to R syntax and some of the major R data structures (called vectors, matrices and data.frames).  
 
+<script async class="speakerdeck-embed" data-id="95cf77439df54785a9716718af8d05a0" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
+[Hands-on in class exercise](https://github.com/bioboot/web-2016/blob/gh-pages/class-material/R_basics.md).  
 <br>
+
 
 #### Lab (2-1): 	**Descriptive statistics and summarizing data**
 - **Time**: 		2:30 – 4:00 PM, Feb 11 (Thursday) or Feb 12, 10:30 - 12:00 PM, (Friday)
