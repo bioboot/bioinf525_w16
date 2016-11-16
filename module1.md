@@ -131,8 +131,7 @@ Supporting Files: [indinavir.pdbqt]({{ site.baseurl }}/class-material/indinavir.
 <a name="1.4"></a>
 <br>
 
-#### Lecture (1-4): **Genome informatics**  
-- **Instructor**: 	Dr. Ryan Mills  
+#### Lecture (1-4): **Genome informatics**    
 - **Time**: 		Feb 2 (Tuesday), 2:30 - 4:00 PM  
 - **Topics**:  
 High throughput sequencing technologies, biological applications and bioinformatics analysis methods.  Web interfaces to genome databases at Ensembl and UCSC.  
